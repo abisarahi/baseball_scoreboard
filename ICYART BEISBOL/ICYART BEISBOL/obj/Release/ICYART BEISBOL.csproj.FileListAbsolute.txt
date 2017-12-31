@@ -1,0 +1,13 @@
+C:\Users\axel\Documents\Visual Studio 2013\Projects\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\bin\Release\ICYART BEISBOL.exe.config
+C:\Users\axel\Documents\Visual Studio 2013\Projects\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\bin\Release\LMB_v2003.mdb
+C:\Users\axel\Documents\Visual Studio 2013\Projects\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\bin\Release\ICYART BEISBOL.exe
+C:\Users\axel\Documents\Visual Studio 2013\Projects\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\bin\Release\ICYART BEISBOL.pdb
+C:\Users\axel\Documents\Visual Studio 2013\Projects\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\axel\Documents\Visual Studio 2013\Projects\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\bin\Release\AForge.Video.dll
+C:\Users\axel\Documents\Visual Studio 2013\Projects\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\obj\Release\ICYART BEISBOL.csprojResolveAssemblyReference.cache
+C:\Users\axel\Documents\Visual Studio 2013\Projects\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\obj\Release\ICYART_BEISBOL.Form1.resources
+C:\Users\axel\Documents\Visual Studio 2013\Projects\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\obj\Release\ICYART_BEISBOL.Muestra.resources
+C:\Users\axel\Documents\Visual Studio 2013\Projects\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\obj\Release\ICYART_BEISBOL.Properties.Resources.resources
+C:\Users\axel\Documents\Visual Studio 2013\Projects\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\obj\Release\ICYART BEISBOL.csproj.GenerateResource.Cache
+C:\Users\axel\Documents\Visual Studio 2013\Projects\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\obj\Release\ICYART BEISBOL.exe
+C:\Users\axel\Documents\Visual Studio 2013\Projects\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\obj\Release\ICYART BEISBOL.pdb

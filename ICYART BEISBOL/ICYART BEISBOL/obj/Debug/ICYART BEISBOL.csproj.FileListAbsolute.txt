@@ -1,0 +1,194 @@
+c:\users\sara\documents\visual studio 2015\Projects\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.exe.config
+C:\Users\SARA\Documents\Visual Studio 2015\Projects\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.exe
+C:\Users\SARA\Documents\Visual Studio 2015\Projects\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.pdb
+C:\Users\SARA\Documents\Visual Studio 2015\Projects\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.csprojResolveAssemblyReference.cache
+C:\Users\SARA\Documents\Visual Studio 2015\Projects\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Form1.resources
+C:\Users\SARA\Documents\Visual Studio 2015\Projects\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Properties.Resources.resources
+C:\Users\SARA\Documents\Visual Studio 2015\Projects\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.csproj.GenerateResource.Cache
+C:\Users\SARA\Documents\Visual Studio 2015\Projects\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.exe
+C:\Users\SARA\Documents\Visual Studio 2015\Projects\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.pdb
+C:\Users\SARA\Documents\Visual Studio 2015\Projects\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Muestra.resources
+C:\Users\SARA\Documents\Visual Studio 2015\Projects\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\SARA\Documents\Visual Studio 2015\Projects\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\AForge.Video.dll
+C:\Users\SARA\Documents\Visual Studio 2015\Projects\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\LMB_v2003.mdb
+C:\Users\axel\Documents\Visual Studio 2013\Projects\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\LMB_v2003.mdb
+C:\Users\axel\Documents\Visual Studio 2013\Projects\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.exe.config
+C:\Users\axel\Documents\Visual Studio 2013\Projects\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.exe
+C:\Users\axel\Documents\Visual Studio 2013\Projects\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.pdb
+C:\Users\axel\Documents\Visual Studio 2013\Projects\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\axel\Documents\Visual Studio 2013\Projects\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\AForge.Video.dll
+C:\Users\axel\Documents\Visual Studio 2013\Projects\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Form1.resources
+C:\Users\axel\Documents\Visual Studio 2013\Projects\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Muestra.resources
+C:\Users\axel\Documents\Visual Studio 2013\Projects\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Properties.Resources.resources
+C:\Users\axel\Documents\Visual Studio 2013\Projects\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.csproj.GenerateResource.Cache
+C:\Users\axel\Documents\Visual Studio 2013\Projects\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.exe
+C:\Users\axel\Documents\Visual Studio 2013\Projects\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.pdb
+C:\Users\EMMA VALERIA\Desktop\OLMECAS\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.exe.config
+C:\Users\EMMA VALERIA\Desktop\OLMECAS\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.exe
+C:\Users\EMMA VALERIA\Desktop\OLMECAS\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.pdb
+C:\Users\EMMA VALERIA\Desktop\OLMECAS\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\LMB_v2003.mdb
+C:\Users\EMMA VALERIA\Desktop\OLMECAS\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.exe
+C:\Users\EMMA VALERIA\Desktop\OLMECAS\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.pdb
+C:\Users\EMMA VALERIA\Desktop\OLMECAS\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\EMMA VALERIA\Desktop\OLMECAS\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\AForge.Video.dll
+C:\Users\EMMA VALERIA\Desktop\OLMECAS\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.csprojResolveAssemblyReference.cache
+C:\Users\EMMA VALERIA\Desktop\OLMECAS\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Form1.resources
+C:\Users\EMMA VALERIA\Desktop\OLMECAS\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Muestra.resources
+C:\Users\EMMA VALERIA\Desktop\OLMECAS\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Properties.Resources.resources
+C:\Users\EMMA VALERIA\Desktop\OLMECAS\Olmecas\Trabajo\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.csproj.GenerateResource.Cache
+C:\Users\EMMA VALERIA\Documents\Visual Studio 2015\Projects\Beisbol 2.3\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.exe.config
+C:\Users\EMMA VALERIA\Documents\Visual Studio 2015\Projects\Beisbol 2.3\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.exe
+C:\Users\EMMA VALERIA\Documents\Visual Studio 2015\Projects\Beisbol 2.3\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.pdb
+C:\Users\EMMA VALERIA\Documents\Visual Studio 2015\Projects\Beisbol 2.3\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\LMB_v2003.mdb
+C:\Users\EMMA VALERIA\Documents\Visual Studio 2015\Projects\Beisbol 2.3\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.exe
+C:\Users\EMMA VALERIA\Documents\Visual Studio 2015\Projects\Beisbol 2.3\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.pdb
+C:\Users\EMMA VALERIA\Documents\Visual Studio 2015\Projects\Beisbol 2.3\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\EMMA VALERIA\Documents\Visual Studio 2015\Projects\Beisbol 2.3\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\AForge.Video.dll
+C:\Users\EMMA VALERIA\Documents\Visual Studio 2015\Projects\Beisbol 2.3\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\Interop.WMPLib.dll
+C:\Users\EMMA VALERIA\Documents\Visual Studio 2015\Projects\Beisbol 2.3\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\EMMA VALERIA\Documents\Visual Studio 2015\Projects\Beisbol 2.3\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.csprojResolveAssemblyReference.cache
+C:\Users\EMMA VALERIA\Documents\Visual Studio 2015\Projects\Beisbol 2.3\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\Interop.WMPLib.dll
+C:\Users\EMMA VALERIA\Documents\Visual Studio 2015\Projects\Beisbol 2.3\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\EMMA VALERIA\Documents\Visual Studio 2015\Projects\Beisbol 2.3\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.csproj.ResolveComReference.cache
+C:\Users\EMMA VALERIA\Documents\Visual Studio 2015\Projects\Beisbol 2.3\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Form1.resources
+C:\Users\EMMA VALERIA\Documents\Visual Studio 2015\Projects\Beisbol 2.3\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Muestra.resources
+C:\Users\EMMA VALERIA\Documents\Visual Studio 2015\Projects\Beisbol 2.3\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Properties.Resources.resources
+C:\Users\EMMA VALERIA\Documents\Visual Studio 2015\Projects\Beisbol 2.3\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.csproj.GenerateResource.Cache
+C:\Users\EMMA VALERIA\Documents\Visual Studio 2015\Projects\Beisbol 2.3\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla2.resources
+C:\Users\EMMA VALERIA\Documents\Visual Studio 2015\Projects\Beisbol 2.3\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Pantalla3.resources
+C:\Users\EMMA VALERIA\Documents\Visual Studio 2015\Projects\Beisbol 2.3\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Pantalla4.resources
+C:\Users\EMMA VALERIA\Documents\Visual Studio 2015\Projects\Beisbol 2.3\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.exe.manifest
+C:\Users\EMMA VALERIA\Documents\Visual Studio 2015\Projects\Beisbol 2.3\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.application
+C:\Users\EMMA VALERIA\Documents\Visual Studio 2015\Projects\Beisbol 2.3\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.exe.manifest
+C:\Users\EMMA VALERIA\Documents\Visual Studio 2015\Projects\Beisbol 2.3\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.application
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.exe.config
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\Interop.WMPLib.dll
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.csproj.ResolveComReference.cache
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.exe
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.pdb
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\LMB_v2003.mdb
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.exe.manifest
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.application
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.exe
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.pdb
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\AForge.Video.dll
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\Interop.WMPLib.dll
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.csprojResolveAssemblyReference.cache
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Form1.resources
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Muestra.resources
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla2.resources
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Pantalla3.resources
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Pantalla4.resources
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Properties.Resources.resources
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.csproj.GenerateResource.Cache
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.exe.manifest
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.application
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla5.resources
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla6.resources
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla7.resources
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla8.resources
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla9.resources
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla10.resources
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla11.resources
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla12.resources
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla13.resources
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla14.resources
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla15.resources
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla16.resources
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla17.resources
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla18.resources
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla19.resources
+C:\Users\SARA\Documents\DDM\Projects\Beisbol 2.3.2a\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.g.resources
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.exe.config
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\Interop.WMPLib.dll
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.csproj.ResolveComReference.cache
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.exe
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.pdb
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\LMB_v2003.mdb
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.exe.manifest
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.application
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.exe
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.pdb
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\AForge.Video.dll
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\Interop.WMPLib.dll
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.csprojResolveAssemblyReference.cache
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.g.resources
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Form1.resources
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Muestra.resources
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla10.resources
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla11.resources
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla12.resources
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla13.resources
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla14.resources
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla15.resources
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla16.resources
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla17.resources
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla18.resources
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla19.resources
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla2.resources
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Pantalla3.resources
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Pantalla4.resources
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla5.resources
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla6.resources
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla7.resources
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla8.resources
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla9.resources
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Properties.Resources.resources
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.csproj.GenerateResource.Cache
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.exe.manifest
+C:\Users\SARA\Documents\DDM\Projects\alta y baja\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.application
+C:\Users\SARA\Documents\DDM\Projects\completo centenario\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.exe.config
+C:\Users\SARA\Documents\DDM\Projects\completo centenario\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\Interop.WMPLib.dll
+C:\Users\SARA\Documents\DDM\Projects\completo centenario\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SARA\Documents\DDM\Projects\completo centenario\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.csproj.ResolveComReference.cache
+C:\Users\SARA\Documents\DDM\Projects\completo centenario\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.exe
+C:\Users\SARA\Documents\DDM\Projects\completo centenario\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.pdb
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\LMB_v2003.mdb
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.exe.config
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.exe.manifest
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.application
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.exe
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\ICYART BEISBOL.pdb
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\AForge.Video.dll
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\Interop.WMPLib.dll
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\Interop.WMPLib.dll
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.csproj.ResolveComReference.cache
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.g.resources
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Form1.resources
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Muestra.resources
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla10.resources
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla11.resources
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla12.resources
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla13.resources
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla14.resources
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla15.resources
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla16.resources
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla17.resources
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla18.resources
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla19.resources
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla2.resources
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Pantalla3.resources
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Pantalla4.resources
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla5.resources
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla6.resources
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla7.resources
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla8.resources
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla9.resources
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.Properties.Resources.resources
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.video.resources
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.csproj.GenerateResource.Cache
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.exe.manifest
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.application
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.exe
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.pdb
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART_BEISBOL.pantalla20.resources
+C:\Users\SARA\Documents\DDM\Projects\centenario1.2\ICYART BEISBOL\ICYART BEISBOL\obj\Debug\ICYART BEISBOL.csprojResolveAssemblyReference.cache

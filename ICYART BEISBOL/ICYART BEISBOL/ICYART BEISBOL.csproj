@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F5F0F400-FF5A-4BB4-9D5E-740CE9907FAD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ICYART_BEISBOL</RootNamespace>
+    <AssemblyName>ICYART BEISBOL</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\SARA\Documents\publicaciones\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>21</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>2D965B4D6D6B5863F8BEF29CAB09023F23CF3BA0</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>ICYART BEISBOL_ClaveTemporal.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>olmecas1.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge.Video">
+      <HintPath>bin\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow">
+      <HintPath>bin\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Datos\DatosAplicacion.cs" />
+    <Compile Include="Entidad\EntidadGenericaNombreId.cs" />
+    <Compile Include="Entidad\EntidadJugador.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Muestra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Muestra.Designer.cs">
+      <DependentUpon>Muestra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\NegocioApliacion.cs" />
+    <Compile Include="pantalla10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pantalla10.Designer.cs">
+      <DependentUpon>pantalla10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pantalla11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pantalla11.Designer.cs">
+      <DependentUpon>pantalla11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pantalla12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pantalla12.Designer.cs">
+      <DependentUpon>pantalla12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pantalla13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pantalla13.Designer.cs">
+      <DependentUpon>pantalla13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pantalla14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pantalla14.Designer.cs">
+      <DependentUpon>pantalla14.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pantalla15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pantalla15.Designer.cs">
+      <DependentUpon>pantalla15.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pantalla16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pantalla16.Designer.cs">
+      <DependentUpon>pantalla16.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pantalla17.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pantalla17.Designer.cs">
+      <DependentUpon>pantalla17.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pantalla18.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pantalla18.Designer.cs">
+      <DependentUpon>pantalla18.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pantalla19.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pantalla19.Designer.cs">
+      <DependentUpon>pantalla19.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pantalla2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pantalla2.Designer.cs">
+      <DependentUpon>pantalla2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pantalla20.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pantalla20.Designer.cs">
+      <DependentUpon>pantalla20.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantalla3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantalla3.Designer.cs">
+      <DependentUpon>Pantalla3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantalla4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantalla4.Designer.cs">
+      <DependentUpon>Pantalla4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pantalla5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pantalla5.Designer.cs">
+      <DependentUpon>pantalla5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pantalla6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pantalla6.Designer.cs">
+      <DependentUpon>pantalla6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pantalla7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pantalla7.Designer.cs">
+      <DependentUpon>pantalla7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pantalla8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pantalla8.Designer.cs">
+      <DependentUpon>pantalla8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pantalla9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pantalla9.Designer.cs">
+      <DependentUpon>pantalla9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="video.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="video.Designer.cs">
+      <DependentUpon>video.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Muestra.resx">
+      <DependentUpon>Muestra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pantalla10.resx">
+      <DependentUpon>pantalla10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pantalla11.resx">
+      <DependentUpon>pantalla11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pantalla12.resx">
+      <DependentUpon>pantalla12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pantalla13.resx">
+      <DependentUpon>pantalla13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pantalla14.resx">
+      <DependentUpon>pantalla14.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pantalla15.resx">
+      <DependentUpon>pantalla15.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pantalla16.resx">
+      <DependentUpon>pantalla16.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pantalla17.resx">
+      <DependentUpon>pantalla17.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pantalla18.resx">
+      <DependentUpon>pantalla18.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pantalla19.resx">
+      <DependentUpon>pantalla19.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pantalla2.resx">
+      <DependentUpon>pantalla2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pantalla20.resx">
+      <DependentUpon>pantalla20.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantalla3.resx">
+      <DependentUpon>Pantalla3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantalla4.resx">
+      <DependentUpon>Pantalla4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pantalla5.resx">
+      <DependentUpon>pantalla5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pantalla6.resx">
+      <DependentUpon>pantalla6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pantalla7.resx">
+      <DependentUpon>pantalla7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pantalla8.resx">
+      <DependentUpon>pantalla8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pantalla9.resx">
+      <DependentUpon>pantalla9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="video.resx">
+      <DependentUpon>video.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ICYART BEISBOL_ClaveTemporal.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\luis a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Fotos\AmilcarGaxiola.jpg" />
+    <Content Include="Fotos\EduardoSantos.jpg" />
+    <Content Include="Fotos\SinImagen.jpg" />
+    <Content Include="LMB_v2003.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="olmecas1.ico" />
+    <Resource Include="Resources\olmecas1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
